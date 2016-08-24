@@ -1,2 +1,1 @@
-# omni-project
-Omnifood mock-up
+# omnifood
